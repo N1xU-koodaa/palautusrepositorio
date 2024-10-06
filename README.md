@@ -1,3 +1,1 @@
-**katsotaan miltä tää näyttää**
-_entä tää_
-~kaaakakaakakaa~
+#tässä fullstackopen tehtävät
