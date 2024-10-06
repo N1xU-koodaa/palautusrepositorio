@@ -1,5 +1,0 @@
-#tässä tiedostossa testailen markdown notaatioiden käyttöä
-**katsotaan miltä tää näyttää**
-_entä tää_
-~kaaakakaakakaa~
-
